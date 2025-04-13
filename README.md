@@ -1,5 +1,5 @@
 #### 🗂️ Projects 
-- [코딩해듀오]([https://github.com/woowacourse-teams/2024-coduo]) - 협업과 성장을 위한 페어 프로그래밍 코딩해듀오 (2024 - 2025)
+- [코딩해듀오](https://github.com/woowacourse-teams/2024-coduo) - 협업과 성장을 위한 페어 프로그래밍 코딩해듀오 (2024 - 2025)
 - BrainBrain - 개발 중 (2025)
 
 
